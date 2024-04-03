@@ -1,11 +1,11 @@
 # homepage
 homepage:
   head:
-    title: "Home | 서범교" # TODO: 이름 추가
+    title: "Home | BumGyo Seo" # TODO: 이름 추가
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m 서범교" # TODO: 이름 추가
+  title: "Hello, I’m BumGyo Seo" # TODO: 이름 추가
   subtitle: "Developer"
   description: "안녕하세요" # TODO: 소개 추가
   image:
