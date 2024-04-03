@@ -1,13 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "Home | [ì´ë¦„]" # TODO: ì´ë¦„ ì¶”ê°€
+    title: "Home | ¼­¹ü±³" # TODO: ÀÌ¸§ Ãß°¡
 # showcase
 showcase:
   enable: true
-  title: "Hello, Iâ€™m [ì´ë¦„]" # TODO: ì´ë¦„ ì¶”ê°€
+  title: "Hello, I¡¯m ¼­¹ü±³" # TODO: ÀÌ¸§ Ãß°¡
   subtitle: "Developer"
-  description: "[ì†Œê°œ]" # TODO: ì†Œê°œ ì¶”ê°€
+  description: "¾È³çÇÏ¼¼¿ä" # TODO: ¼Ò°³ Ãß°¡
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
@@ -15,46 +15,46 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/" # TODO: linkedin ì¶”ê°€
+      URL: "https://www.linkedin.com/" # TODO: linkedin Ãß°¡
 
     - icon: "github"
-      URL: "https://github.com/" # TODO: github ì¶”ê°€
+      URL: "https://github.com/" # TODO: github Ãß°¡
 
 # about
 about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    [ì†Œê°œë‚´ìš© 1ë¬¸ë‹¨]
+    [¼Ò°³³»¿ë 1¹®´Ü]
     </p>
     <p class="lead">
-    [ì†Œê°œë‚´ìš© 2ë¬¸ë‹¨]
-    </p>' # TODO: ì†Œê°œë‚´ìš© ì¶”ê°€
+    [¼Ò°³³»¿ë 2¹®´Ü]
+    </p>' # TODO: ¼Ò°³³»¿ë Ãß°¡
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com" # TODO: linkedin ì¶”ê°€
+    URL: "https://www.linkedin.com" # TODO: linkedin Ãß°¡
   image:
-    x: "img/who-am-i/user-picture.png" # TODO: í”„ë¡œí•„ ì´ë¯¸ì§€ ì£¼ì†Œ ë³€ê²½
+    x: "img/who-am-i/user-picture.png" # TODO: ÇÁ·ÎÇÊ ÀÌ¹ÌÁö ÁÖ¼Ò º¯°æ
     _2x: "img/who-am-i/user-picture@2x.png"
 
 # education
 education:
   enable: true
   title: "Education"
-  items: # TODO: í•™ë ¥ ì¶”ê°€
-    - university: "University of í•™êµëª…"
-      year: "[ì…í•™ë…„ë„]-[ì¡¸ì—…ë…„ë„]"
-      degree: "[í•™ìœ„ ë° ì „ê³µ]"
+  items: # TODO: ÇĞ·Â Ãß°¡
+    - university: "University of ÇĞ±³¸í"
+      year: "[ÀÔÇĞ³âµµ]-[Á¹¾÷³âµµ]"
+      degree: "[ÇĞÀ§ ¹× Àü°ø]"
 
 # projects
 projects:
   title: "Projects"
   enable: true
 
-  works: # TODO: í”„ë¡œì íŠ¸ ì¶”ê°€
-    - title: "[í”„ë¡œì íŠ¸1]"
-      description: "[í”„ë¡œì íŠ¸ 1 ì„¤ëª…]"
+  works: # TODO: ÇÁ·ÎÁ§Æ® Ãß°¡
+    - title: "[ÇÁ·ÎÁ§Æ®1]"
+      description: "[ÇÁ·ÎÁ§Æ® 1 ¼³¸í]"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -64,8 +64,8 @@ projects:
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
 
-    - title: "[í”„ë¡œì íŠ¸2]"
-      description: "[í”„ë¡œì íŠ¸ 2ì„¤ëª…]"
+    - title: "[ÇÁ·ÎÁ§Æ®2]"
+      description: "[ÇÁ·ÎÁ§Æ® 2¼³¸í]"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -87,10 +87,10 @@ contact:
     message: "Type Your Message Here"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">[email ì£¼ì†Œ]</a>' # TODO: ì´ë©”ì¼ì£¼ì†Œ ì¶”ê°€
+    email: '<a href="mailto:team@radity.com">[email ÁÖ¼Ò]</a>' # TODO: ÀÌ¸ŞÀÏÁÖ¼Ò Ãß°¡
   address:
     title: "Address"
-    address: "[ì£¼ì†Œ (ì§€ì—­ëª…)]" # TODO: ì£¼ì†Œ ì¶”ê°€
+    address: "[ÁÖ¼Ò (Áö¿ª¸í)]" # TODO: ÁÖ¼Ò Ãß°¡
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
