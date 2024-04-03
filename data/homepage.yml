@@ -1,13 +1,13 @@
 # homepage
 homepage:
   head:
-    title: "Home | BumGyo Seo" # TODO: 이름 추가
+    title: "Home | BumGyoSeo" # TODO: 이름 추가
 # showcase
 showcase:
   enable: true
   title: "Hello, I’m BumGyo Seo" # TODO: 이름 추가
   subtitle: "Developer"
-  description: "안녕하세요" # TODO: 소개 추가
+  description: "안녕하세요 프로그래머 서범교입니다." # TODO: 소개 추가
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
@@ -18,7 +18,7 @@ showcase:
       URL: "https://www.linkedin.com/" # TODO: linkedin 추가
 
     - icon: "github"
-      URL: "https://github.com/" # TODO: github 추가
+      URL: "https://github.com/BumGyo" # TODO: github 추가
 
 # about
 about:
@@ -43,9 +43,9 @@ education:
   enable: true
   title: "Education"
   items: # TODO: 학력 추가
-    - university: "University of 학교명"
-      year: "[입학년도]-[졸업년도]"
-      degree: "[학위 및 전공]"
+    - university: "University of Chungbuk National University"
+      year: "2021-2027"
+      degree: "소프트웨어학부 학사"
 
 # projects
 projects:
